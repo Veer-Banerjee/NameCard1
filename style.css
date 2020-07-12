@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to top, orange 0%, tomato 100%) fixed;
+}
+div {
+    background-color: white;
+    margin: 300px 500px 300px 500px;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 0px 4px 4px black;
+}
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    border: 3px solid orange;
+}
+hr {
+    width: 400px;
+}
+h1 {
+    text-shadow: 4px 4px 6px black;
+}
